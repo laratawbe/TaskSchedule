@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44f1257a-37ac-4d69-a70c-c6433d68ba5b" name="Changes" comment="" />
+    <list default="true" id="44f1257a-37ac-4d69-a70c-c6433d68ba5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fluutertest/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/fluutertest/lib/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/LEN/AndroidStudioProjects/TaskScheduler",
+    "last_opened_file_path": "C:/Users/user/Desktop/Hussein/LAU/Fall 2023/CSC 431/TaskSchedule/TaskSchedule",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
     "show.migrate.to.gradle.popup": "false"
   }
